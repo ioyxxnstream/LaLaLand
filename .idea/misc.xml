@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/kwldu/AndroidStudioProjects/LaLaLand/app/src/main/res/layout/activity_main.xml" value="0.1296875" />
+        <entry key="app/src/main/res/layout/activity_list.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24996527073025837" />
       </map>
     </option>
   </component>

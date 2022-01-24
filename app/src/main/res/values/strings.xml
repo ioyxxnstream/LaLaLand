@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LA</string>
+    <string name="app">New Learn</string>
+    <string name="mute">Mute</string>
+    <string name="word">단어학습</string>
+    <string name="tran">단어번역</string>
 </resources>
